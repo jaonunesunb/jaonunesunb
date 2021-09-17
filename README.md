@@ -6,6 +6,6 @@
 
 🔎 No momento estou trabalhando em um Projeto de Iniciação Científica do Departamento de Ciência da Computação cujo objetivo é a elaboração de um Sistema de Informação Organizacional flexível
 
-📭 Contate-me via: e-mail - jaonunesunb@gmail.com | twitter - @dalejao_ |
+📭 Contate-me via: e-mail - jaonunesunb@gmail.com | 
 
 
