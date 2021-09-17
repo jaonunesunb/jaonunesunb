@@ -1,6 +1,6 @@
 📖 Estudante de Biblioteconomia (Ciência da Informação) na Universidade de Brasília - UnB e Ciência de Dados no Coursera
 
-📚 Estudando atualmente Python, Ciência de dados, SQL, NoSQL, R, CSS, HTML e XML
+📚 Estudando atualmente Python, Ciência de dados, SQL, NoSQL, R, CSS, HTML, XML e PHP
 
 🤝 Estou aprendendo a usar esse repositório e entrando em contato lentamente com essa grande comunidade de desenvolvedores com quem desejo aprender e ensinar
 
