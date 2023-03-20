@@ -1,13 +1,9 @@
-💻 Estudante de Programação Web (Full-stack) na Kenzie Academy
+💻 I am a skilled Full-stack Web Developer who recently completed the Full-stack Web Development program at Kenzie Academy. My proficiency includes Python, JavaScript, React, TypeScript, Data Science, SQL, NoSQL, R, CSS, HTML, XML, and PHP.
 
-📖 Estudante de Biblioteconomia (Ciência da Informação) na Universidade de Brasília - UnB
+📖 Additionally, I hold a degree in Library Science (Information Science) from the University of Brasília - UnB.
 
-📚 Estudando atualmente Python, JavaScript, React, TypeScript, Ciência de dados, SQL, NoSQL, R, CSS, HTML, XML e PHP
+🤝 I am excited to be a part of this community of developers and look forward to the opportunity to continue to learn from others and share my knowledge. I have experience using repositories and collaborative code development tools.
 
-🤝 Estou aprendendo a usar esse repositório e entrando em contato lentamente com essa grande comunidade de desenvolvedores com quem desejo aprender e ensinar
+🔎 Recently, I completed an Undergraduate Research Project at the Department of Computer Science, where I contributed to the development of a flexible Organizational Information System.
 
-🔎 No momento estou trabalhando em um Projeto de Iniciação Científica do Departamento de Ciência da Computação cujo objetivo é a elaboração de um Sistema de Informação Organizacional flexível
-
-📭 Contate-me via: e-mail - jaonunesunb@gmail.com | 
-
-
+📭 If you would like to discuss my qualifications further, please don't hesitate to contact me at jaonunesunb@gmail.com.
